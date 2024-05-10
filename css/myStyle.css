@@ -30,6 +30,10 @@ nav {
     color: rgb(184, 237, 159);
 }
 
+.dropdown-menu{
+    background-color: rgb(127, 107, 187);
+}
+
 nav li {
     padding-right: 40px;
 }
